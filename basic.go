@@ -74,15 +74,15 @@ func enums() {
 	fmt.Println(b, kb, sb, tb)
 }
 
-func main() {
-	fmt.Println("hello world")
-	variableZeroValue()
-	variableInitialValue()
-	variableTypeDeduction()
-	variableShorter()
-	fmt.Println(aa, sss)
-	euler()
-	triangle()
-	consts()
-	enums()
-}
+// func main() {
+// 	fmt.Println("hello world")
+// 	variableZeroValue()
+// 	variableInitialValue()
+// 	variableTypeDeduction()
+// 	variableShorter()
+// 	fmt.Println(aa, sss)
+// 	euler()
+// 	triangle()
+// 	consts()
+// 	enums()
+// }
